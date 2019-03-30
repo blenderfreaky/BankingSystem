@@ -1,0 +1,10 @@
+D:\Personal\School\Info\bOOP\Banking\Frontend\bin\Debug\Frontend.exe.config
+D:\Personal\School\Info\bOOP\Banking\Frontend\bin\Debug\Frontend.exe
+D:\Personal\School\Info\bOOP\Banking\Frontend\bin\Debug\Frontend.pdb
+D:\Personal\School\Info\bOOP\Banking\Frontend\bin\Debug\Banking.dll
+D:\Personal\School\Info\bOOP\Banking\Frontend\bin\Debug\Banking.pdb
+D:\Personal\School\Info\bOOP\Banking\Frontend\obj\Debug\Frontend.csprojAssemblyReference.cache
+D:\Personal\School\Info\bOOP\Banking\Frontend\obj\Debug\Frontend.csproj.CoreCompileInputs.cache
+D:\Personal\School\Info\bOOP\Banking\Frontend\obj\Debug\Frontend.csproj.CopyComplete
+D:\Personal\School\Info\bOOP\Banking\Frontend\obj\Debug\Frontend.exe
+D:\Personal\School\Info\bOOP\Banking\Frontend\obj\Debug\Frontend.pdb
